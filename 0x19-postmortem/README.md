@@ -1,3 +1,5 @@
+![image alt](https://github.com/alhassanbarry/alx-system_engineering-devops/blob/7e0cddb4f1b1f1c7f229010d03f63f96a53b866a/0x19-postmortem/iiiiimmmmmmaaaggee.jpg)
+
 My first Postmortem
 
 Outage Duration:
